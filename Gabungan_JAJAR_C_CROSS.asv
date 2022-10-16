@@ -35,8 +35,8 @@ Sim2 = cell(1,time);
 
 %% RWY 25L
 
-sa1=75;%jadwal1(time) ;
-sa2=75;
+sa1=[75 76];%jadwal1(time) ;
+sa2=0;
 %  sa3=0;
 sa3=0;
 sa4=0;

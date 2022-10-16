@@ -62,7 +62,7 @@ elseif conflict3(1,j)==1
            y = 1;
         
        else
-           y= 1;
+           y= 0;
           
        end
     end

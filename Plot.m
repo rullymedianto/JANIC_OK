@@ -41,8 +41,8 @@ hold on;
 %           plotwaypoint2 = scatter(NavData(:,1),NavData(:,2),5,'filled','b'); %All WP
 %           txt2a = text(NavData(:,1),NavData(:,2),label,'FontSize',5,'HorizontalAlignment','right');
 %          
-          plotwaypoint2 = scatter(NavData(1:21,1),NavData(1:21,2),5,'filled','b'); %Arr WP
-          txt2a = text(NavData(1:21,1),NavData(1:21,2),label(1:21,1),'FontSize',5,'HorizontalAlignment','right');
+          plotwaypoint2 = scatter(NavData(1:19,1),NavData(1:19,2),5,'filled','b'); %Arr WP
+          txt2a = text(NavData(1:19,1),NavData(1:19,2),label(1:19,1),'FontSize',5,'HorizontalAlignment','right');
           
          
 %           plotwaypoint2 = scatter(NavData(35:82,1),NavData(35:82,2),5,'filled','b'); %Dep WP
